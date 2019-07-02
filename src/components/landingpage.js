@@ -25,11 +25,11 @@ render(){
               /> */}
              <div  style={myStyle}  alt="avatar" />
             <div className="banner-text">
-              <h1>Full Stack Web Developer</h1>
+              <h1>Full Stack Developer</h1>
 
             <hr/>
 
-          <p>HTML/CSS | Bootstrap | JavaScript | React | React Native | NodeJS | Express | MongoDB</p>
+          <p>JAVA | HTML/CSS | Bootstrap | JavaScript | ReactJS | Angular | Ionic | NodeJS | MySQL</p>
 
         <div className="social-links">
 
